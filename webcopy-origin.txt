@@ -1,0 +1,320 @@
+Uri: https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.11.3/b-2.0.1/b-colvis-2.0.1/b-html5-2.0.1/datatables.min.css
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\v\bs5\jszip-2.5.0\dt-1.11.3\b-2.0.1\b-colvis-2.0.1\b-html5-2.0.1\datatables.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.11.3/b-2.0.1/b-colvis-2.0.1/b-html5-2.0.1/datatables.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\v\bs5\jszip-2.5.0\dt-1.11.3\b-2.0.1\b-colvis-2.0.1\b-html5-2.0.1\datatables.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\@popperjs\core@2.9.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\bootstrap-icons@1.4.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\bootstrap@5.0.1\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\ajax\libs\pdfmake\0.1.36\pdfmake.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\ajax\libs\pdfmake\0.1.36\vfs_fonts.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\ajax\libs\twitter-bootstrap\5.0.1\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://iub.igstudija.lv/
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\index.htm
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://iub.igstudija.lv/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://iub.igstudija.lv/fancybox/dist/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fancybox\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://iub.igstudija.lv/fancybox/dist/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fancybox\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://iub.igstudija.lv/fonts/356EBC_27_0.woff
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fonts\356EBC_27_0.woff
+Content Type: font/woff
+
+Uri: https://iub.igstudija.lv/fonts/356EBC_27_0.woff2
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fonts\356EBC_27_0.woff2
+Content Type: font/woff2
+
+Uri: https://iub.igstudija.lv/fonts/356EBC_29_0.woff2
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fonts\356EBC_29_0.woff2
+Content Type: font/woff2
+
+Uri: https://iub.igstudija.lv/fonts/356EBC_2B_0.woff
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fonts\356EBC_2B_0.woff
+Content Type: font/woff
+
+Uri: https://iub.igstudija.lv/fonts/356EBC_2B_0.woff2
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fonts\356EBC_2B_0.woff2
+Content Type: font/woff2
+
+Uri: https://iub.igstudija.lv/fonts/fonts.zip
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\fonts\fonts.zip
+Content Type: application/zip
+
+Uri: https://iub.igstudija.lv/ikonas/RemixIcon_Fonts_v2.5.0 (1).zip
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\ikonas\RemixIcon_Fonts_v2.5.0 (1).zip
+Content Type: application/zip
+
+Uri: https://iub.igstudija.lv/ikonas/RemixIcon_SVG_v2.5.0 (1).zip
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\ikonas\RemixIcon_SVG_v2.5.0 (1).zip
+Content Type: application/zip
+
+Uri: https://iub.igstudija.lv/images/logo.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\images\logo.png
+Content Type: image/png
+
+Uri: https://iub.igstudija.lv/index.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\index.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\index.htm
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/akordeoni.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\akordeoni.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/birkas.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\birkas.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/datu-ievades-ieteikumi.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\datu-ievades-ieteikumi.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/datu-ievades-laukums.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\datu-ievades-laukums.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/formas.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\formas.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/info-lodzini.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\info-lodzini.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/izcelts-teksts.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\izcelts-teksts.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/izlecosie-logi.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\izlecosie-logi.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/izlecosie-pazinojumi.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\izlecosie-pazinojumi.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/kajene.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\kajene.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/koks.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\koks.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/lapu-numeracija.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\lapu-numeracija.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/mapes.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\mapes.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/navigacija.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\navigacija.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/navigacijas-cels.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\navigacijas-cels.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/padomu-riki.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\padomu-riki.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/pazinojumi.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\pazinojumi.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/pogas.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\pogas.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/progresa-indikatori.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\progresa-indikatori.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/saraksti.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\saraksti.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/komponentes/tabulas.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\komponentes\tabulas.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\index.htm
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/autorizacija.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\autorizacija.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/lietotaji.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\lietotaji.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/organizacijas_profils.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\organizacijas_profils.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/pazinojums_par_ligumu.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\pazinojums_par_ligumu.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/publikaciju_saraksts.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\publikaciju_saraksts.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/piemeri/sakums.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\piemeri\sakums.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/style/style.min.css?v=202110272010
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\style\style.min.css
+Content Type: text/css
+
+Uri: https://iub.igstudija.lv/visparigi/
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\visparigi\index.htm
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/visparigi/ikonas.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\visparigi\ikonas.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/visparigi/izkartojums.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\visparigi\izkartojums.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/visparigi/krasas.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\visparigi\krasas.php.html
+Content Type: text/html
+
+Uri: https://iub.igstudija.lv/visparigi/tipografija.php
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\visparigi\tipografija.php.html
+Content Type: text/html
+
+Uri: https://www.datatables.net/examples/resources/details_close.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\examples\resources\details_close.png
+Content Type: image/png
+
+Uri: https://www.datatables.net/examples/resources/details_open.png
+File Name: C:\Downloaded Web Sites\iub.igstudija.lv\examples\resources\details_open.png
+Content Type: image/png
+
